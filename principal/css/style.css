@@ -97,7 +97,7 @@ a{
 }
 
 
-.socials {
+/* .socials {
   position: absolute;
   top: 25rem;
   left: 0;
@@ -115,7 +115,7 @@ a{
   width: 2px;
   background-color: var(--white);
 }
-
+*/
 .socials span {
   font-size: 2rem;
   color: var(--white);
@@ -125,7 +125,7 @@ a{
   margin-bottom: 1rem;
   font-size: 4.5rem;
   font-weight: 800;
-  color: var(--white);
+  color: var(--black);
 }
 
 .content h1 span {
@@ -137,7 +137,7 @@ a{
   max-width: 350px;
   margin-bottom: 2rem;
   line-height: 1.5rem;
-  color: var(--white);
+  color: var(--black);
 }
 
 .content .btn {
@@ -217,7 +217,7 @@ a{
 #footer span {
   font-weight: bold;
 }
-
+ 
 @media (width < 1200px) {
 
 

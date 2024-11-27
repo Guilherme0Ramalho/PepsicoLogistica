@@ -148,7 +148,7 @@
   /* Event location */
   #location {
     height: 400px;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    background: linear-gradient(rgba(163, 11, 11, 0.8), rgba(0, 0, 0, 0.8)),
       url("../img/hrz-1.jpg");
     background-position: center;
     background-size: cover;
@@ -169,21 +169,20 @@
   }
   
   #address i {
-    color: var(--primary);
+    color: black;
     font-size: 4em;
     margin-right: 0.5em;
   }
   
   #address-details {
-    text-align: center;
-    font-size: 1.3em;
+    
   }
   
   #about-location h3 {
-    color: var(--primary);
+    color: ;
     font-size: 2.5em;
     margin-bottom: 1em;
-    text-transform: uppercase;
+  
   }
   
   #about-location p {
